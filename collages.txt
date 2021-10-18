@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <title>We Learn Together</title>
+    <head> 
+        <link rel="stylesheet" href="main_style.css">
+    </head>
+        <header>
+            <h1><img src="Logo.png" 
+                alt="Logo" height="170" width="400" align="left"> Welcome  
+                 Abroad!  
+            </h1>    
+        </header>
+    </head>
+    <body>
+        <div class="topnav" id="myTopnav">
+            <a href="main_page.html">Home</a>
+            <a href="collages.html">Collages</a>
+            <a href="exams.html">Exams</a>
+            <a href="scholarships.html">Scholarships</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </body>
+    <section>
+        <nav>
+            <dl>
+                <dt>Basic Procedure</dt>
+                      <dd>Look for the Universities that suits you</dd>
+                      <dd>Apply in the Unversity</dd>
+                      <dd>Send a proper application with all necessary documents</dd>
+                      <dd>If accepted apply for the Visa</dd>
+                
+                <dt>Pre-Requisites</dt>
+                      <dd>GPA > 6</dd>
+                      <dd>IELTS > 6.5</dd>
+                      <dd>GRE Scores</dd>
+                      <dd>SAT for Bachelors Program</dd>
+                      <dd>12th Certifcate</dd>
+                      <dd>Bacherlors Degree for Masters Program</dd>
+                
+                <dt>Economics</dt>
+                      <dd>You are Rich</dd>
+                      <dd>Schloarships</dd>
+                      <dd>Education Loan</dd>
+                      <dd>Goverment Programs for Scholarship</dd>
+            </dl> 
+        </nav>
+        <article>
+            <h2>Choose From the countries</h2>
+            <h3 style="color:darkslategrey; font-family: Tempus Sans ITC;"> You know the flags right?</h3>
+            <dl>
+                <dt style="font-style: italic; color: #FF355E;">North American</dt>
+                <dd>
+                    <a href="https://studyabroad.shiksha.com/usa/universities"><img class="countries" src="https://cdn.pixabay.com/photo/2016/11/26/18/59/america-1861417_960_720.png" alt="United States of America" ></a>
+                    <a href="https://studyabroad.shiksha.com/canada/universities"><img class="countries" src="https://cdn.pixabay.com/photo/2016/02/04/13/05/flag-1179160_960_720.png" alt=" Canada"></a>
+                </dd>
+                <dt style="font-style: italic; color: #FF355E">European</dt>
+                    <dd>
+                        <a href="https://studyabroad.shiksha.com/france/universities"><img class="countries" src="https://cdn.pixabay.com/photo/2016/03/30/15/08/map-of-france-1290790_960_720.png" alt="France "></a>
+                        <a href="https://studyabroad.shiksha.com/germany/universities"><img class="countries" src="https://cdn.pixabay.com/photo/2015/08/15/22/24/germany-890238_960_720.png" alt="Germany "></a>
+                        <a href="https://studyabroad.shiksha.com/uk/universities"><img class="countries" src="https://cdn.pixabay.com/photo/2015/11/03/08/59/map-1019896_960_720.jpg" alt=" United Kingdom"></a>
+                    </dd> 
+                <dt style="font-style: italic; color: #FF355E">Asian</dt>
+                    <dd>
+                        <a href="https://en.wikipedia.org/wiki/Hrithik_Roshan"><img class="countries" src="https://cdn.pixabay.com/photo/2021/07/23/13/14/india-6487315_960_720.png" alt="India "></a>
+                        <a href="https://studyabroad.shiksha.com/japan/universities"><img class="countries" src="https://cdn.pixabay.com/photo/2013/05/22/18/00/japan-112722_960_720.jpg" alt="Japan"></a>
+                        <a href="https://studyabroad.shiksha.com/russia/universities"><img class="countries"src="https://cdn.pixabay.com/photo/2015/11/03/14/40/russia-1020934_960_720.png" alt="Russia"></a>
+                    </dd>
+            </dl>
+        </article>
+    </section>
+    <footer>
+        <b>We hope you found your right place on the globe</b>
+    </footer>
+</html>

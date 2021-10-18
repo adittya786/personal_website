@@ -1,0 +1,122 @@
+header
+{
+    padding-top: 1ex;
+    padding-bottom: 1ex;
+    background-color: rgb(31, 58, 207);
+}
+h1
+{
+    font-family: "parchment";
+    font-size: 100px;
+    text-align: center;
+    color: rgb(245, 246, 248);
+}
+.topnav 
+{
+    background-color: rgb(196, 7, 7);
+    overflow: hidden;
+}
+.topnav a 
+{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #043eaa;
+    color: black;
+  }
+nav 
+{
+    float: left;
+    width: 21%;
+    height: 600px;
+    background: #0048BA;
+    padding: 20px;
+    font-size: 160%;
+  }
+article 
+{
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #ffffff;
+    height: 600px; 
+    font-size: 160%;
+}
+section::after 
+{
+    font-size: 200%;
+    content: "";
+    display: table;
+    clear: both;
+}
+footer 
+{
+    background-color: rgb(196, 7, 7);
+    padding: 1px;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}
+  
+@media (max-width: 600px) 
+{
+    nav, article 
+    {
+      width: 100%;
+      height: auto;
+    }
+}
+h2
+{
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-size: 35px;
+    padding: 1px;
+    text-align: center;
+    color:#FF355E;
+    ;
+}
+p
+{
+  font-family: "Comic Sans MS";
+  font-size: 23px;
+  padding: 1px;
+  color: #FF355E;
+}
+dl
+{
+    font-size: 20px;
+    font-family: "Gabriola";
+    color:#66FF66;
+}
+.confuse {
+  float: right;
+  width: 400px;
+  height:250px;
+  padding-left: 1ex;
+}
+h2
+{
+    color:darkslategrey; 
+    font-family:Ink Free; 
+    text-align: center ;
+}
+.countries
+{
+    width: 100px;
+    height: 100px;
+}
+.contact
+{
+    padding-left: 40ex;
+    width: 500px;
+    height: 100px;
+}
